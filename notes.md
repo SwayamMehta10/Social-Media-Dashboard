@@ -1,0 +1,4 @@
+- Gulp for compiling sass to css
+- Install using npm:
+    - npm install gulp-cli -g
+    - npm install @babel/core @babel/preset-env postcss autoprefixer browser-sync cssnano sass gulp gulp-babel gulp-postcss gulp-sass gulp-terser //dart-sass
