@@ -9,3 +9,9 @@
         padding: 0;
     }
 }
+
+.flex-parent {
+    @include breakpoint(medium) {
+        display: flex;
+    }
+}
